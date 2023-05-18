@@ -1,4 +1,4 @@
-<!-- Start of ChatBot Custom Integration code -->
+<!-- Start of ChatBot Custom Integration code -- Dependent on widget.js and custom.js code -->
 <script>
 
 // The chatbot instance
