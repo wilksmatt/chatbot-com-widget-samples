@@ -1,0 +1,12 @@
+/* Show chatbot widget by default */
+#chatbot-chat {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transition: all .5s; /* Animated transition when hiding and showing */
+}
+
+/* Hide chatbot widget */
+#chatbot-chat.hidden {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
